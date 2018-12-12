@@ -235,6 +235,7 @@ a:hover {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.3em;
+  line-height: 1.5;
 }
 
 .header__menu {
