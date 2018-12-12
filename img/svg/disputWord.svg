@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="letterD" viewBox="0 0 229.2 254.4" transform="translate(0 4)">
+    <g>
+      <g>
+        <path class="st0" d="M229.2,115.9c1,59.6-35.4,119.9-117.9,119.9H18.7V0h92.6C192.1,0,228.2,57.6,229.2,115.9z M62.8,193h48.5
+          c53.6,0,74.8-39.1,73.8-77.5c-1-36.7-22.6-73.4-73.8-73.4H62.8V193z"/>
+        <g>
+          <path class="st1" d="M177.5,154.4c2.8-6.1,4.8-12.6,6-19.2"/>
+          <path class="st1" d="M44.1,193h67.2c0,0,21.7,0.7,39.1-9.1c7.2-4,13.6-9.4,18.7-15.8"/>
+          <line class="st1" x1="62.8" y1="211.7" x2="62.8" y2="106.2"/>
+          <line class="st1" x1="18.7" y1="254.4" x2="18.7" y2="211.7"/>
+          <path class="st1" d="M0,235.8h106.6c0,0,27.3,1.2,49.4-7"/>
+          <path class="st1" d="M187.6,211.7c9.8-7.9,18.1-17.5,24.6-28.3"/>
+        </g>
+      </g>                  
+    </g>
+  </symbol>
+  <symbol id="letterI" viewBox="0 0 66.07971 250">
+    <g>
+      <rect class="st0" x="2" width="62.07971" height="250" fill="#488ccc"/>
+      <g>
+        <line class="st1" x1="2" y1="250" x2="2" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4"/>
+        <line class="st1" x1="64.07971" y1="250" x2="64.07971" y2="214.44924" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="letterS" viewBox="0 0 207.65765 252">
+    <g>
+      <path d="M111.55941,94.68111C82.47384,91.21619,70.6081,85.80375,70.6081,75.99674c0-12.6364,13.62857-20.182,36.45473-20.182,20.94623,0,38.4579,10.34421,44.29905,20.07724l4.29627,7.15823,48.05574-24.71536-3.85231-7.85259C184.30023,18.76534,151.78006,2,105.744,2c-46.61007.36166-93.63833,22.99623-93.63833,72.745,0,56.41755,47.46762,69.66743,94.00413,75.20027,42.732,4.59447,42.732,18.7193,42.732,23.36156,0,22.215-31.73666,23.94058-41.46555,23.94058-26.06916,0-46.01818-10.8952-53.36575-29.14439l-3.66528-9.09979L0,185.08981l3.06007,7.53275C19.29189,232.5776,53.20951,252,106.75406,252c62.24124,0,100.90359-30.15446,100.90359-78.69322C207.65765,106.52986,142.77816,98.52929,111.55941,94.68111Z" fill="#488ccc"/>
+      <g>
+        <g>
+          <line x1="203.65475" y1="58.33484" x2="200.35147" y2="51.60144" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4"/>
+          <path d="M192.96658,38.994C175.65543,14.73145,145.802,2,105.68478,2,70.75784,2.271,35.5961,15.04858,20.16342,42.36981" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4" stroke-dasharray="14.62677 14.62677"/>
+          <path d="M16.95706,48.94415a61.76657,61.76657,0,0,0-2.44525,7.08441" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+        <path d="M70.548,75.94123c0-12.63639,13.62858-20.182,36.45474-20.182,20.94622,0,38.4579,10.34422,44.29905,20.07724" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="letterP" viewBox="0 0 205.52268 252.07807">
+    <g>
+      <path d="M200.31147,119.22265c-2.75817,8.497-13.79237,34.695-37.70013,44.96374-12.87336,5.66469-25.74672,6.37155-39.233,6.37155H70.65883v81.43042H2V2.03259H125.52242c21.15055,0,40.76706,1.76972,57.62463,18.76356,21.76251,21.59812,22.37563,51.69105,22.37563,62.6691C205.52268,88.42063,205.2166,104.35185,200.31147,119.22265Zm-66.20579-50.6282c-6.74333-14.16172-21.14959-14.16172-24.82676-14.16172H70.65883V118.16H109.585c.919,0,7.66311-.35354,12.25928-2.12526,6.13118-2.4788,15.63249-10.26674,15.63249-30.09293C137.47677,83.10949,137.47677,75.67309,134.10568,68.59445Z" fill="#488ccc"/>
+      <g>
+        <path d="M176.63951,218.59785l-18.89184,18.8975v-18.8975h18.89184m9.65479-4H153.74767v32.55641l32.54663-32.55641Z" fill="#000105"/>
+        <polyline points="137.477 2 2 2.033 2 251.988" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        <line x1="39.66915" y1="250.07807" x2="137.47677" y2="250.04548" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        <line x1="188.55057" y1="203.53019" x2="188.55057" y2="54.43273" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        <g>
+          <polyline points="50.359 54.433 37.463 70.596 28.98 65.124" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="70.65883" y1="54.43273" x2="145.56002" y2="54.43273" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="70.65883" y1="70.59601" x2="145.56002" y2="70.59601" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <polyline points="50.359 112.295 37.463 128.459 28.98 122.985" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="70.65883" y1="112.29548" x2="145.56002" y2="112.29548" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="70.65883" y1="128.45877" x2="145.56002" y2="128.45877" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <polyline points="50.359 170.534 37.463 186.695 28.98 181.219" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="70.65883" y1="170.53402" x2="145.56002" y2="170.53402" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="70.65883" y1="186.6953" x2="145.56002" y2="186.6953" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="letterU" viewBox="0 0 217.54255 251.96741">
+    <g>
+      <path d="M156.59645,2V141.24981c0,19.91983-6.003,53.33463-46.2036,53.33463-31.88583,0-49.44484-18.94132-49.44484-53.33463V2H0V141.24981c0,67.25813,43.20472,110.7176,110.06811,110.7176,66.29247,0,107.47444-42.42429,107.47444-110.7176V2Z" fill="#488ccc"/>
+      <g>
+        <path d="M28.7608,92.74351v42.461c0,55.35394,32.17572,91.1214,81.97069,91.1214,49.3698,0,80.03913-34.9155,80.03913-91.1214v-42.461" fill="none" stroke="#000105" stroke-linejoin="round" stroke-width="4" stroke-dasharray="12 10"/>
+        <line y1="2" x2="60.94801" y2="2" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        <line x1="156.59645" y1="2" x2="217.54255" y2="2" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+  </symbol>
+  <symbol id="letterT" viewBox="0 0 377.94211 257.4989" transform="translate(0 -4)">
+    <g>
+      <path class="st0" d="M142.80025,67.79654v188.509H63.78271V67.79654H0V6.14109H206.2269V67.79654Z" fill="#488ccc"/>
+      <g>
+        <polyline class="st1" points="64.294 57.237 64.294 255.499 262.557 255.499" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        <g>
+          <line x1="85.20545" y1="255.21451" x2="85.20545" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="112.60636" y1="255.21451" x2="112.60636" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="140.0082" y1="255.21451" x2="140.0082" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="167.41078" y1="255.21451" x2="167.41078" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="194.81169" y1="255.21451" x2="194.81169" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="222.20908" y1="255.21451" x2="222.20908" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line x1="249.61537" y1="255.21451" x2="249.61537" y2="243.20602" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <line class="st1" x1="64.55196" y1="67.9918" x2="76.5558" y2="67.9918" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line class="st1" x1="64.55196" y1="95.38807" x2="76.5558" y2="95.38807" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line class="st1" x1="64.55196" y1="122.79343" x2="76.5558" y2="122.79343" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line class="st1" x1="64.55196" y1="150.19342" x2="76.5558" y2="150.19342" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line class="st1" x1="64.55196" y1="177.59526" x2="76.5558" y2="177.59526" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line class="st1" x1="64.55196" y1="204.99524" x2="76.5558" y2="204.99524" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <line class="st1" x1="64.55196" y1="232.39708" x2="76.5558" y2="232.39708" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+      <g>
+        <line class="st1" x1="97.43727" y1="219.29634" x2="154.66597" y2="162.07076" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        <g>
+          <polyline class="st1" points="175.171 141.568 188.026 128.71 218.629 159.314 375.942 2" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <polyline class="st1" points="375.942 41.173 375.942 2 336.769 2" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <g>
+          <polyline class="st1" points="312.888 162.987 312.888 123.816 273.714 123.816" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+          <polyline class="st1" points="102.334 159.314 137.224 124.428 224.75 211.954 312.888 123.816" fill="none" stroke="#000105" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </symbol>
+</svg>

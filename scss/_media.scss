@@ -1,0 +1,39 @@
+@media screen and (max-width: 1200px) {
+  .header__menu_item {
+    padding: 0.5rem 1rem;
+  }
+
+  .header__menu_link {
+    font-size: 0.75rem;
+  }
+
+  .header__title_wrap {
+    width: 65vw;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .header__menu {
+    display: none;
+  }
+
+  .header__mouse-icon {
+    display: none;
+  }
+
+  .header__desc-title {
+    font-size: 1.5rem;
+  }
+
+  .scheme__content_btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  //ХЕДЕР
+}
+
+@media screen and (max-width: 576px) {
+}

@@ -1,0 +1,96 @@
+@import "fonts";
+@import "variables";
+
+html {
+  font-family: "Open Sans", Tahoma, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+}
+
+a,
+a:hover {
+  color: #000;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.container {
+  position: relative;
+}
+
+//HEADER
+@import "header";
+@import "animations";
+
+//FEATURES SECTION
+.features {
+  padding-top: 3rem;
+  padding-bottom: 6rem;
+  background: #f8faff;
+
+  &__item {
+    text-align: center;
+  }
+
+  &__icon {
+    fill: none;
+    width: 120px;
+
+    & path {
+      fill: none;
+      stroke: $main-color;
+      stroke-width: 10;
+      stroke-miterlimit: 10;
+    }
+  }
+}
+
+//СХЕМА РАБОТЫ
+.schemes {
+  padding: 5rem 0;
+  margin-top: 5rem;
+
+  &__title {
+    margin-bottom: 5.5rem;
+    font-size: 2.25rem;
+    letter-spacing: 0.75rem;
+    text-transform: uppercase;
+  }
+}
+
+.scheme {
+  &__content {
+    &_wrap {
+      padding: 50px 40px 0;
+    }
+
+    &_title {
+      max-width: 12.5rem;
+      font-size: 1.875rem;
+      line-height: 2.875rem;
+      letter-spacing: 0.5rem;
+      text-transform: uppercase;
+      color: $main-color;
+      margin-top: 7rem;
+    }
+
+    &_desc {
+      max-width: 30vw;
+      margin-top: 2.5rem;
+      line-height: 1.9rem;
+    }
+
+    &_btn {
+      margin-top: 3.5rem;
+    }
+  }
+
+  // &__interactive_wrap {
+  //   margin-top: 1rem;
+  //   background: url(img/bgs/bg_first.svg);
+  //   background-size: cover;
+  // }
+}
+
+@import "media";
